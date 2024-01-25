@@ -1,5 +1,5 @@
-.csv
-.log
+*.csv
+*.log
 
 # Ignore everything in the experiment directories (generated files)
 exp-*/*
