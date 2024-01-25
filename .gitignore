@@ -1,0 +1,11 @@
+.csv
+.log
+
+# Ignore everything in the experiment directories (generated files)
+exp-*/*
+
+# Except do not ignore persistent files (config + build files)
+!exp-*/experiment.cfg
+!exp-*/letce2.cfg
+!exp-*/Makefile
+!exp-*/batman-routes
