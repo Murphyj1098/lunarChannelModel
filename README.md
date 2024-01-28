@@ -1,1 +1,1 @@
-# Lunar Channel Model via Irregular Terrain Model
+# Basic Lunar Channel Model via MATLAB and EMANE
