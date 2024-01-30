@@ -1,1 +1,3 @@
-# Lunar Channel Model via Irregular Terrain Model
+# Basic Lunar Channel Model Integrated with EMANE
+
+EMANE testbed can be found in sister [repository](https://www.github.com/Murphyj1098/EMANE-NASA.git)
